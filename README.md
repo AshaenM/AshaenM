@@ -47,6 +47,7 @@ I'm a passionate software developer with a keen interest in game development and
 ## Connect with Me
 - LinkedIn: [linkedin.com/in/ashaen-manuel](https://www.linkedin.com/in/ashaen-manuel-609b811a9/)
 - Email: [ashaenmanuel41@gmail.com](mailto:ashaenmanuel41@gmail.com)
+- Instagram: [instagram.com/ash.aen](https://www.instagram.com/ash.aen/)
   
 ---
 [![](https://visitcount.itsvg.in/api?id=AshaenM&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
