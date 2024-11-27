@@ -1,4 +1,4 @@
-## Hi there! 👋 My name is Ashaen Manuel 
+# Hi there! 👋 My name is Ashaen Manuel 
 
 🎮 Aspiring Game Developer | 🧠 AI Enthusiast | 🌍 Exploring Quantum Mechanics in Games | 🤖 Machine Learning Admirer
 
