@@ -35,6 +35,7 @@ I'm a passionate software developer with a keen interest in game development and
 ## 💻 Projects
 - [Quantum Chess Game](https://github.com/AshaenM/Quantum-Chess): A chess game with quantum mechanics, implementing superposition and collapse mechanics.
 - [Housing Market Insights](https://github.com/AshaenM/Melbourne-Housing-Price-Predictor): A React-based visualization and ML model for predicting Melbourne house prices.
+- [Chess Puzzle Solving AI](https://github.com/AshaenM/Chess-Puzzle-Solver): An application that lets the user load a chess puzzle and select an AI to solve the puzzle showing the move sequence and time taken.
 - [Friend-System](https://github.com/AshaenM/Friend-System): A PHP and MySQL-based social network application that allows users to manage accounts, add/remove friends, and interact through secure sessions.
 - [Job-Posting-System](https://github.com/AshaenM/Job-Posting-System): A web application built with PHP that allows users to post, search, and manage job vacancies, storing data in a text file for easy access and retrieval.
 
