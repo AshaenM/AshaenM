@@ -33,6 +33,8 @@ I'm a passionate software developer with a keen interest in game development and
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 💻 Projects
+- [TalentHaven – Job Posting & Application Portal](https://github.com/AshaenM/Job-Posting-and-Applying-Web-App): A fully responsive multi-role job recruitment web application built using Vue.js and PHP.
+TalentHaven streamlines the hiring process by providing recruiters and applicants with dedicated, role-based portals to manage job postings, applications, and more.
 - [Quantum Chess Game](https://github.com/AshaenM/Quantum-Chess): A chess game with quantum mechanics, implementing superposition and collapse mechanics.
 - [Housing Market Insights](https://github.com/AshaenM/Melbourne-Housing-Price-Predictor): A React-based visualization and ML model for predicting Melbourne house prices.
 - [Chess Puzzle Solving AI](https://github.com/AshaenM/Chess-Puzzle-Solver): An application that lets the user load a chess puzzle and select an AI to solve the puzzle showing the move sequence and time taken.
