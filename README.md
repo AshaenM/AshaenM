@@ -41,10 +41,10 @@ A fully playable chess variant built around quantum mechanics. Pieces can exist 
 A React app with a trained ML model underneath. You can visualise Melbourne housing data and get price predictions based on real suburb-level features. Built the data pipeline, trained the model, and wired it to a frontend with D3.js charts — end to end.
 
 ### [TalentHaven – Job Recruitment Portal](https://github.com/AshaenM/Job-Posting-and-Applying-Web-App)
-A multi-role web app built with Vue.js and PHP. Recruiters and applicants each get a dedicated portal with role-based access. Full CRUD for job listings, application tracking, and session management. Built to production-level standards for a university team project.
+A multi-role web app built with Vue.js and PHP. Recruiters and applicants each get a dedicated portal with role-based access. Full CRUD for job listings, application tracking, and session management. Built to production-level standards for a university project.
 
 ### [Chess Puzzle Solver](https://github.com/AshaenM/Chess-Puzzle-Solver)
-Load a puzzle, pick an algorithm (minimax, alpha-beta pruning, etc.), and watch it solve in real time with move-by-move output and timing stats. Built to compare AI search strategies head to head.
+Load a puzzle, pick an algorithm (minimax, alpha-beta pruning, etc.), and watch it solve in real time with move-by-move answers and timing stats. Built to compare AI search strategies head to head.
 
 ### [Friend System](https://github.com/AshaenM/Friend-System)
 A PHP and MySQL social network app with secure sessions, friend requests, and account management. Straightforward on the surface, but a good exercise in session security and relational DB design.
