@@ -1,58 +1,110 @@
-# Hi there! 👋 My name is Ashaen Manuel 
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Ashaen%20Manuel&fontSize=36&fontColor=ffffff)
 
-🎮 Aspiring Game Developer | 🧠 AI Enthusiast | 🌍 Exploring Quantum Mechanics in Games | 🤖 Machine Learning Admirer
+<div align="center">
 
-Welcome to my GitHub profile! 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&width=500&lines=Software+Developer;Game+Dev+%26+AI+Builder;CS+Graduate+%40+Swinburne)](https://git.io/typing-svg)
 
-## 🕶️ About Me
-I'm a passionate software developer with a keen interest in game development and AI.  
-- 🌟 Currently exploring **Quantum Chess mechanics** and **Search Algorthim AI strategies**.
-- 🔭 Working on a **Chess Puzzle solving AI** project.
-- 🎓 Pursuing a Bachelor's Degree in Computer Science majoring in Games Development at Swinburne University of Technology, Hawthorn, Australia.
+![Profile Views](https://komarev.com/ghpvc/?username=AshaenM&color=6366f1&style=flat-square&label=Profile+Views)
 
-## 🧑‍💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashaen-manuel-609b811a9/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashaenmanuel41@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ash.aen/)
 
-## 💻 Projects
-- [TalentHaven – Job Posting & Application Portal](https://github.com/AshaenM/Job-Posting-and-Applying-Web-App): A fully responsive multi-role job recruitment web application built using Vue.js and PHP.
-TalentHaven streamlines the hiring process by providing recruiters and applicants with dedicated, role-based portals to manage job postings, applications, and more.
-- [Quantum Chess Game](https://github.com/AshaenM/Quantum-Chess): A chess game with quantum mechanics, implementing superposition and collapse mechanics.
-- [Housing Market Insights](https://github.com/AshaenM/Melbourne-Housing-Price-Predictor): A React-based visualization and ML model for predicting Melbourne house prices.
-- [Chess Puzzle Solving AI](https://github.com/AshaenM/Chess-Puzzle-Solver): An application that lets the user load a chess puzzle and select an AI to solve the puzzle showing the move sequence and time taken.
-- [Friend-System](https://github.com/AshaenM/Friend-System): A PHP and MySQL-based social network application that allows users to manage accounts, add/remove friends, and interact through secure sessions.
-- [Job-Posting-System](https://github.com/AshaenM/Job-Posting-System): A web application built with PHP that allows users to post, search, and manage job vacancies, storing data in a text file for easy access and retrieval.
+</div>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AshaenM&show_icons=true&theme=radical)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AshaenM&theme=dark&hide_border=false&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshaenM&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AshaenM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## Connect with Me
-- LinkedIn: [linkedin.com/in/ashaen-manuel](https://www.linkedin.com/in/ashaen-manuel-609b811a9/)
-- Email: [ashaenmanuel41@gmail.com](mailto:ashaenmanuel41@gmail.com)
-- Instagram: [instagram.com/ash.aen](https://www.instagram.com/ash.aen/)
-  
 ---
-[![](https://visitcount.itsvg.in/api?id=AshaenM&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+# Hey, I'm Ashaen 👋
+
+CS graduate from Swinburne University (Games Development major) based in Melbourne, Australia. I build things that sit at the intersection of software engineering, AI, and game mechanics — from ML-powered housing predictors to chess engines that use quantum superposition as an actual game mechanic.
+
+Currently looking for **graduate or junior software developer roles** where I can contribute from day one and keep learning fast.
+
+---
+
+## Projects worth looking at
+
+<div align="center">
+
+[![Quantum Chess](https://github-readme-stats.vercel.app/api/pin/?username=AshaenM&repo=Quantum-Chess&theme=tokyonight)](https://github.com/AshaenM/Quantum-Chess)
+[![Chess Puzzle Solver](https://github-readme-stats.vercel.app/api/pin/?username=AshaenM&repo=Chess-Puzzle-Solver&theme=tokyonight)](https://github.com/AshaenM/Chess-Puzzle-Solver)
+
+[![Melbourne Housing Price Predictor](https://github-readme-stats.vercel.app/api/pin/?username=AshaenM&repo=Melbourne-Housing-Price-Predictor&theme=tokyonight)](https://github.com/AshaenM/Melbourne-Housing-Price-Predictor)
+[![TalentHaven](https://github-readme-stats.vercel.app/api/pin/?username=AshaenM&repo=Job-Posting-and-Applying-Web-App&theme=tokyonight)](https://github.com/AshaenM/Job-Posting-and-Applying-Web-App)
+
+</div>
+
+### [Quantum Chess](https://github.com/AshaenM/Quantum-Chess)
+A fully playable chess variant built around quantum mechanics. Pieces can exist in superposition across multiple squares simultaneously and collapse to a definite position when observed. The hard part wasn't the chess logic — it was designing a rule system that makes quantum behaviour feel fair and intuitive to a player who's never touched a physics textbook.
+
+### [Melbourne Housing Price Predictor](https://github.com/AshaenM/Melbourne-Housing-Price-Predictor)
+A React app with a trained ML model underneath. You can visualise Melbourne housing data and get price predictions based on real suburb-level features. Built the data pipeline, trained the model, and wired it to a frontend with D3.js charts — end to end.
+
+### [TalentHaven – Job Recruitment Portal](https://github.com/AshaenM/Job-Posting-and-Applying-Web-App)
+A multi-role web app built with Vue.js and PHP. Recruiters and applicants each get a dedicated portal with role-based access. Full CRUD for job listings, application tracking, and session management. Built to production-level standards for a university team project.
+
+### [Chess Puzzle Solver](https://github.com/AshaenM/Chess-Puzzle-Solver)
+Load a puzzle, pick an algorithm (minimax, alpha-beta pruning, etc.), and watch it solve in real time with move-by-move output and timing stats. Built to compare AI search strategies head to head.
+
+### [Friend System](https://github.com/AshaenM/Friend-System)
+A PHP and MySQL social network app with secure sessions, friend requests, and account management. Straightforward on the surface, but a good exercise in session security and relational DB design.
+
+---
+
+## Tech I'm comfortable with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Ashaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshaenM&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshaenM&layout=compact&theme=tokyonight&hide=html,css&langs_count=6)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+![snake gif](https://github.com/AshaenM/AshaenM/blob/output/github-contribution-grid-snake.gif)
+
+</div>
+
+---
+
+## A bit more about me
+
+I'm drawn to problems where software and systems thinking intersect with something creative — game mechanics, AI behaviour, data visualisation. My Games Development major gave me a different angle on problem solving that I think translates well outside of games: tight performance constraints, real-time systems, user experience under pressure.
+
+I learn best by building. Every project here started because I wanted to understand something properly, not just read about it.
+
+---
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashaen-manuel-609b811a9/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashaenmanuel41@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ash.aen/)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer)
