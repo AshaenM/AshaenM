@@ -22,15 +22,21 @@ Currently looking for **graduate or junior software developer roles** where I ca
 
 ---
 
+## What I'm working on
+
+**Chess Puzzle Solver** — An app where you load any chess puzzle and choose an AI algorithm to solve it. It shows you the full move sequence and benchmarks how long each approach takes. It's a deep dive into search algorithms and I'm actively expanding the AI strategies it supports.
+
+---
+
 ## Projects worth looking at
 
 <div align="center">
 
-[![Quantum Chess](https://github-readme-stats.vercel.app/api/pin/?username=AshaenM&repo=Quantum-Chess&theme=tokyonight)](https://github.com/AshaenM/Quantum-Chess)
-[![Chess Puzzle Solver](https://github-readme-stats.vercel.app/api/pin/?username=AshaenM&repo=Chess-Puzzle-Solver&theme=tokyonight)](https://github.com/AshaenM/Chess-Puzzle-Solver)
+[![Quantum Chess](https://github-readme-stats-eight-gray-65.vercel.app/api/pin/?username=AshaenM&repo=Quantum-Chess&theme=tokyonight)](https://github.com/AshaenM/Quantum-Chess)
+[![Chess Puzzle Solver](https://github-readme-stats-eight-gray-65.vercel.app/api/pin/?username=AshaenM&repo=Chess-Puzzle-Solver&theme=tokyonight)](https://github.com/AshaenM/Chess-Puzzle-Solver)
 
-[![Melbourne Housing Price Predictor](https://github-readme-stats.vercel.app/api/pin/?username=AshaenM&repo=Melbourne-Housing-Price-Predictor&theme=tokyonight)](https://github.com/AshaenM/Melbourne-Housing-Price-Predictor)
-[![TalentHaven](https://github-readme-stats.vercel.app/api/pin/?username=AshaenM&repo=Job-Posting-and-Applying-Web-App&theme=tokyonight)](https://github.com/AshaenM/Job-Posting-and-Applying-Web-App)
+[![Melbourne Housing Price Predictor](https://github-readme-stats-eight-gray-65.vercel.app/api/pin/?username=AshaenM&repo=Melbourne-Housing-Price-Predictor&theme=tokyonight)](https://github.com/AshaenM/Melbourne-Housing-Price-Predictor)
+[![TalentHaven](https://github-readme-stats-eight-gray-65.vercel.app/api/pin/?username=AshaenM&repo=Job-Posting-and-Applying-Web-App&theme=tokyonight)](https://github.com/AshaenM/Job-Posting-and-Applying-Web-App)
 
 </div>
 
@@ -41,10 +47,10 @@ A fully playable chess variant built around quantum mechanics. Pieces can exist 
 A React app with a trained ML model underneath. You can visualise Melbourne housing data and get price predictions based on real suburb-level features. Built the data pipeline, trained the model, and wired it to a frontend with D3.js charts — end to end.
 
 ### [TalentHaven – Job Recruitment Portal](https://github.com/AshaenM/Job-Posting-and-Applying-Web-App)
-A multi-role web app built with Vue.js and PHP. Recruiters and applicants each get a dedicated portal with role-based access. Full CRUD for job listings, application tracking, and session management. Built to production-level standards for a university project.
+A multi-role web app built with Vue.js and PHP. Recruiters and applicants each get a dedicated portal with role-based access. Full CRUD for job listings, application tracking, and session management. Built to production-level standards for a university team project.
 
 ### [Chess Puzzle Solver](https://github.com/AshaenM/Chess-Puzzle-Solver)
-Load a puzzle, pick an algorithm (minimax, alpha-beta pruning, etc.), and watch it solve in real time with move-by-move answers and timing stats. Built to compare AI search strategies head to head.
+Load a puzzle, pick an algorithm (minimax, alpha-beta pruning, etc.), and watch it solve in real time with move-by-move output and timing stats. Built to compare AI search strategies head to head.
 
 ### [Friend System](https://github.com/AshaenM/Friend-System)
 A PHP and MySQL social network app with secure sessions, friend requests, and account management. Straightforward on the surface, but a good exercise in session security and relational DB design.
@@ -76,8 +82,9 @@ A PHP and MySQL social network app with secure sessions, friend requests, and ac
 
 <div align="center">
 
-![Ashaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshaenM&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshaenM&layout=compact&theme=tokyonight&hide=html,css&langs_count=6)
+![Ashaen's GitHub stats](https://github-readme-stats-eight-gray-65.vercel.app/api?username=AshaenM&show_icons=true&theme=tokyonight&count_private=true)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats-eight-gray-65.vercel.app/api/top-langs/?username=AshaenM&layout=compact&theme=tokyonight&hide=html,css&langs_count=6)
 
 </div>
 
@@ -87,7 +94,7 @@ A PHP and MySQL social network app with secure sessions, friend requests, and ac
 
 <div align="center">
 
-![snake gif](https://github.com/AshaenM/AshaenM/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/AshaenM/AshaenM/output/github-contribution-grid-snake.gif)
 
 </div>
 
